@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/rsapp/app/src/main/res/drawable/projects_fragment.xml" value="0.26614583333333336" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/acheivments_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/fragment_test_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/home_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/home_nav_header.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/image_holder_for_homescreen.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/notification_fragment.xml" value="0.12708333333333333" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/profile_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/projects_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/test_fragment.xml" value="0.25" />
+        <entry key="..\:/rsapp/app/src/main/res/layout/test_fragmeny.xml" value="0.26197916666666665" />
+        <entry key="..\:/rsapp/app/src/main/res/menu/home_nav_header_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
