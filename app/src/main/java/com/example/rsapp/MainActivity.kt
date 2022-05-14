@@ -28,6 +28,13 @@ class MainActivity : AppCompatActivity() {
         val imageSlider = binding.imageSlider
         val imageList: ArrayList<String> = ArrayList()
 
+//        val home_fragment= Home_fragment()
+//        supportFragmentManager.beginTransaction().apply {
+//            replace(R.id.flfragment,projects_fragment())
+//            commit()
+//        }
+
+
         imageList.add("https://www.vssutrobotics.com/images/gallery/gallery_7.webp")
         imageList.add("https://www.vssutrobotics.com/images/gallery/gallery_16.webp")
         imageList.add("https://www.vssutrobotics.com/images/gallery/gallery_8.webp")
